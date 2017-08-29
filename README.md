@@ -9,3 +9,5 @@ The `preprocess` directory contains the file used to clean, impute, and preproce
 The `results` directory contains the CSVs necessary to reproduce the figures in the paper as well as the predicted values for GPA obtained from the final 5 models, as discussed in the paper.
 
 ***Note: This repository does not contain the Fragile Families data, which the challenge does not allow me to share with others and I will delete once the manuscript has been completed.***
+
+Please don't hesitate to contact me via e-mail (see my Github profile) if you have any questions or to make an Issue on Github.
