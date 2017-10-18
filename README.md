@@ -6,6 +6,8 @@ This repository contains code to reproduce the results of my final submissions f
 
 ***Note: This repository does not contain the Fragile Families data, which I am unable to share and I will delete once the manuscript has been completed.***
 
+All of the code used was written in Python 3.6 using the latest versions of the packages available in July 2017.
+
 ## What this repository contains
 
 The `model` directory contains a Jupyter notebook with the code used to run the neural networks, `gpa.ipynb`. This notebook contains a lot of output that will require scrolling through in the Github version. To view it I suggest downloading or cloning this repository and [opening the file as a Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html). This will require Python 3.5 and `jupyter` to be installed, as well as any other dependencies if you intend to run the notebook. The notebook `regression_baseline.ipynb` contains the code to implement the baseline OLS model.
