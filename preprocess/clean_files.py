@@ -12,7 +12,6 @@ bg.cf4fint = ((pd.to_datetime(bg.cf4fint) -
 # , index_col='challengeID')
 train = pd.read_csv('../../ff_data/train.csv', low_memory=False)
 
-print("Setting indices")
 bg.index = bg.challengeID
 train.index = train.challengeID
 del bg['challengeID']
@@ -32,9 +31,6 @@ bg = bg.replace({-1: np.NaN, -2: np.NaN, -3: np.NaN,
                  -np.inf: np.NaN})
 
 print("Input matrix shape ", bg.shape)
-
-print("Concatenating outcomes to matrix")
-
 
 print("Identifying columns with high missingness")
 threshold = 0.7
