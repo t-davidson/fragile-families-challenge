@@ -1,0 +1,412 @@
+,Count in LIME exp.,Wave,Respondent,Umbrella topic(s),Topic(s)
+cf1edu,1,1,Father,Education and school,educational attainment/achievement
+cf1kids,1,1,Father,Home and housing,household composition
+cf1povca,1,1,Father,Finances,household income/poverty
+cf2hhimpb,1,2,Father,Finances,household income/poverty
+cf2povca,1,2,Father,Finances,household income/poverty
+cf3cogsc,1,3,Father,Cognitive and behavioral development,cognitive skills
+cf3finjail,1,3,Father,Legal system,criminal justice involvement
+cf3povcob,1,3,Father,Finances,household income/poverty
+cf4b_age,1,4,Father,Demographics & Paradata and weights,age & paradata
+cf5marm,1,5,Father,Parental relationships,parental relationship status
+ch3pvbasal_m,1,3,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch3pvnbasal_m,1,3,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch3pvnceil_m,1,3,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch4ppvtage,1,4,Home (Survey),Demographics & Paradata and weights,age & paradata
+ch4pvceil,1,4,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch4pvceilr,1,4,Home (Survey),Cognitive and behavioral development & Paradata and weights,cognitive skills & paradata
+ch5dsraw,1,5,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch5dsss,1,5,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch5ppvtpr,1,5,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch5ppvtraw,1,5,Home (Survey),Cognitive and behavioral development,cognitive skills
+ch5ppvtss,1,5,Home (Survey),Cognitive and behavioral development,cognitive skills
+cm1inpov,1,1,Mother,Finances,household income/poverty
+cm1lenhr,1,1,Mother,Paradata and weights,paradata
+cm2cfinjail,1,2,Mother,Legal system,criminal justice involvement
+cm3b_age,1,3,Mother,Demographics & Paradata and weights,age & paradata
+cm3kids,1,3,Mother,Home and housing,household composition
+cm4age,1,4,Mother,Demographics & Paradata and weights,age & paradata
+cm4b_age,2,4,Mother,Demographics & Paradata and weights,age & paradata
+cm5finjail,1,5,Mother,Legal system,criminal justice involvement
+f1a6a,1,1,Father,Health and health behavior,fertility history
+f1b10,1,1,Father,Parental relationships,parental relationship quality
+f1d1c,1,1,Father,Attitudes and expectations,attitudes/expectations/happiness
+f1e1b1,1,1,Father,Home and housing,household composition
+f1e1b3,1,1,Father,Home and housing,household composition
+f1e3,1,1,Father,Family and social support,parents' family background
+f1e4a,1,1,Father,Family and social support,parents' family background
+f1f6,2,1,Father,Community,community participation
+f1f7,1,1,Father,Demographics,religion
+f1g9a,1,1,Father,Health and health behavior,mental health
+f1g9g,1,1,Father,Health and health behavior,mental health
+f1g9l,1,1,Father,Health and health behavior,mental health
+f1i1,2,1,Father,Education and school,educational attainment/achievement
+f1j6,3,1,Father,Employment,employment - traditional work
+f1j8a,1,1,Father,Finances,earnings
+f1k3,1,1,Father,Finances,household income/poverty
+f2a3,1,2,Father,Home and housing,child living arrangements
+f2b36b,1,2,Father,Parenting,parenting behavior
+f2b36c,1,2,Father,Parenting,parenting behavior
+f2b36f,1,2,Father,Parenting,parenting behavior
+f2b36h,1,2,Father,Parenting,parenting behavior
+f2b37a,2,2,Father,Cognitive and behavioral development,behavior
+f2b37d,1,2,Father,Cognitive and behavioral development,behavior
+f2b37e,1,2,Father,Cognitive and behavioral development,behavior
+f2b38d,1,2,Father,Parenting,parenting abilities
+f2c6c,1,2,Father,Legal system,paternity
+f2d2b,2,2,Father,Parental relationships & Parenting,parental relationship quality & parenting abilities
+f2d2c,1,2,Father,Parental relationships & Parenting,parental relationship quality & parenting abilities
+f2d2d,1,2,Father,Parental relationships & Parenting,parental relationship quality & parenting abilities
+f2g16,1,2,Father,Family and social support,grandparents
+f2g3,1,2,Father,Family and social support,parents' family background
+f2h7c,2,2,Father,Finances,public transfers and social services
+f2j22,1,2,Father,Cognitive and behavioral development,behavior
+f2k15ap,1,2,Father,Finances,earnings
+f2k5,1,2,Father,Education and school,educational attainment/achievement
+f2k7a,1,2,Father,Education and school,educational attainment/achievement
+f3a11,1,3,Father,Health and health behavior,fertility history
+f3a2,1,3,Father,Home and housing,child living arrangements
+f3b4e,1,3,Father,Parenting,parenting behavior
+f3b4g,1,3,Father,Parenting,parenting behavior
+f3b4h,1,3,Father,Parenting,parenting behavior
+f3b4k,1,3,Father,Parenting,parenting behavior
+f3b4m,1,3,Father,Parenting,parenting behavior
+f3b6d,1,3,Father,Parenting,parenting abilities
+f3b7,1,3,Father,Childcare,childcare services and availability
+f3c3e,1,3,Father,Parenting,parenting behavior
+f3c3i,1,3,Father,Parenting,parenting behavior
+f3c3j,1,3,Father,Parenting,parenting behavior
+f3c7b,1,3,Father,Parental relationships,parental relationship quality
+f3d1d,1,3,Father,Parental relationships & Parenting,parental relationship quality & parenting abilities
+f3d3a_2,1,3,Father,Family and social support,social support
+f3d3a_7,1,3,Father,Family and social support,social support
+f3d4,1,3,Father,Parental relationships,parental relationship quality
+f3f1,1,3,Father,Home and housing,household composition
+f3f2c1,1,3,Father,Home and housing,household composition
+f3f2d3,3,3,Father,Home and housing,household composition
+f3i20,1,3,Father,Finances,public transfers and social services
+f3j2e2,1,3,Father,Health and health behavior,height and weight
+f3k13p,1,3,Father,Finances,earnings
+f3k23,1,3,Father,Employment,employment - traditional work
+f3l3,1,3,Father,Parental relationships & Parental relationships,parental relationship status & new partner relationship status
+f3r0a,1,3,Father,Attitudes and expectations,attitudes/expectations/happiness
+f3r10,2,3,Father,Community,community participation
+f4a4,1,4,Father,Parental relationships,parental relationship status
+f4a8c,1,4,Father,Parental relationships & Home and housing,parental relationship status & parents' living arrangements
+f4b3,1,4,Father,Home and housing,child living arrangements
+f4b4b13,2,4,Father,Cognitive and behavioral development,behavior
+f4b4b18,1,4,Father,Cognitive and behavioral development & Health and health behavior,behavior & mental health
+f4b4b19,1,4,Father,Cognitive and behavioral development,behavior
+f4b6a,3,4,Father,Parenting,parenting abilities
+f4b6b,1,4,Father,Parenting,parenting abilities
+f4c27,1,4,Father,Health and health behavior,fertility history
+f4c3f,1,4,Father,Parenting,parenting behavior
+f4c43a,1,4,Father,Health and health behavior,mental health
+f4d1g,1,4,Father,Parental relationships & Parenting,parental relationship quality & parenting abilities
+f4d4,1,4,Father,Parental relationships,parental relationship quality
+f4d8,1,4,Father,Parental relationships,parental relationship history
+f4f2c2,1,4,Father,Home and housing,household composition
+f4f2c3,1,4,Father,Home and housing,household composition
+f4f2d1,2,4,Father,Home and housing,household composition
+f4h1p,1,4,Father,Family and social support,grandparents
+f4h1q,1,4,Father,Family and social support,grandparents
+f4h2,1,4,Father,Finances,private transfers
+f4i0g,1,4,Father,Education and school & Family and social support,parent school involvement & social support
+f4i0m4,1,4,Father,Community,neighborhood conditions
+f4i0n2,1,4,Father,Community,neighborhood conditions
+f4i22,1,4,Father,Finances,public transfers and social services
+f4i23p2,1,4,Father,Attitudes and expectations & Finances,attitudes/expectations/happiness & public transfers and social services
+f4i23p3,2,4,Father,Attitudes and expectations & Finances,attitudes/expectations/happiness & public transfers and social services
+f4i23p5,1,4,Father,Attitudes and expectations & Finances,attitudes/expectations/happiness & public transfers and social services
+f4j25b1,1,4,Father,Cognitive and behavioral development,behavior
+f4k10,3,4,Father,Employment,employment - traditional work
+f4k12,1,4,Father,Employment,employment - traditional work
+f4k13,1,4,Father,Finances,earnings
+f4l5b,1,4,Father,Finances & Finances,financial assets & expenses
+f4r2,1,4,Father,Community,community participation
+f5a6a,2,5,Father,Health and health behavior,fertility history
+f5a8,1,5,Father,Health and health behavior,fertility history
+f5b22c,1,5,Father,Finances,child support
+f5c2b,1,5,Father,Parental relationships & Parenting,parental relationship quality & parenting abilities
+f5e1i,2,5,Father,Family and social support & Family and social support,parents' family background & grandparents
+f5i13,1,5,Father,Finances,earnings
+f5i22,2,5,Father,Employment,employment - traditional work
+f5k14d,1,5,Father,Parenting,parenting behavior
+f5k14e,1,5,Father,Parenting,parenting behavior
+h5m13,1,5,Home (Survey),Paradata and weights,paradata
+k5a1a,3,5,Child,Parenting,parenting behavior
+k5a1c,1,5,Child,Parenting,parenting behavior
+k5a3c,1,5,Child,Parenting,parenting behavior
+k5b1b,1,5,Child,Parenting,parenting behavior
+k5c1,1,5,Child,Cognitive and behavioral development,behavior
+k5d1a,1,5,Child,Cognitive and behavioral development,behavior
+k5d1c,1,5,Child,Cognitive and behavioral development,behavior
+k5e1b,1,5,Child,Education and school,student experiences
+k5e1c,1,5,Child,Education and school,student experiences
+k5e2b,1,5,Child,Education and school,student experiences
+k5g1b,1,5,Child,Cognitive and behavioral development,behavior
+k5g2i,1,5,Child,Cognitive and behavioral development,behavior
+m1b12c,1,1,Mother,Parental relationships,parental relationship quality
+m1b15f,2,1,Mother,Attitudes and expectations,attitudes/expectations/happiness
+m1c1a,1,1,Mother,Attitudes and expectations,attitudes/expectations/happiness
+m1e1b1,1,1,Mother,Home and housing,household composition
+m1e1b2,1,1,Mother,Home and housing,household composition
+m1e3e,1,1,Mother,Childcare & Family and social support,childcare services and availability & social support
+m1f10a,1,1,Mother,Attitudes and expectations & Finances,attitudes/expectations/happiness & public transfers and social services
+m1f10b,1,1,Mother,Attitudes and expectations & Finances,attitudes/expectations/happiness & public transfers and social services
+m1f11b,2,1,Mother,Finances,public transfers and social services
+m1f12,1,1,Mother,Attitudes and expectations & Finances,attitudes/expectations/happiness & child support
+m1f2,1,1,Mother,Home and housing,housing status
+m1g1,1,1,Mother,Health and health behavior & Health and health behavior,physical health & mental health
+m1i6,1,1,Mother,Employment & Education and school,employment - traditional work & educational attainment/achievement
+m1j2b,2,1,Mother,Finances,public transfers and social services
+m2a7,1,2,Mother,Parental relationships,parental relationship status
+m2a8e,1,2,Mother,Parental relationships,parental relationship status
+m2b13b,1,2,Mother,Health and health behavior,health behavior
+m2b17d,1,2,Mother,Cognitive and behavioral development,behavior
+m2b17f,1,2,Mother,Cognitive and behavioral development,behavior
+m2b18b,1,2,Mother,Parenting,parenting behavior
+m2b18c,1,2,Mother,Parenting,parenting behavior
+m2b18d,1,2,Mother,Parenting,parenting behavior
+m2b18h,1,2,Mother,Parenting,parenting behavior
+m2b20b,1,2,Mother,Parenting,parenting abilities
+m2b27,3,2,Mother,Childcare,childcare services and availability
+m2b29,1,2,Mother,Childcare & Finances,childcare services and availability & public transfers and social services
+m2b8,2,2,Mother,Health and health behavior,physical health
+m2c23c,1,2,Mother,Finances,child support
+m2c24a,1,2,Mother,Health and health behavior,fertility history
+m2c3f,1,2,Mother,Parenting,parenting behavior
+m2c3h,2,2,Mother,Parenting,parenting behavior
+m2c3i,1,2,Mother,Parenting,parenting behavior
+m2citywt_rep6,1,2,Mother,Paradata and weights,survey weights
+m2citywt_rep8,1,2,Mother,Paradata and weights,survey weights
+m2d2,1,2,Mother,Parenting,parent-child contact
+m2f2b4,1,2,Mother,Home and housing,household composition
+m2f2d1,2,2,Mother,Home and housing,household composition
+m2f2e1,1,2,Mother,Home and housing,household composition
+m2f6,1,2,Mother,Health and health behavior,fertility history
+m2g1b,1,2,Mother,Family and social support & Demographics,parents' family background & citizenship and nativity
+m2g3,1,2,Mother,Family and social support,parents' family background
+m2g5a8,2,2,Mother,Finances,private transfers
+m2g6a1,1,2,Mother,Family and social support,social support
+m2g6d,1,2,Mother,Family and social support,social support
+m2h19c,1,2,Mother,Finances,material hardship
+m2h2,2,2,Mother,Home and housing,housing status
+m2h8g,1,2,Mother,Finances,public transfers and social services
+m2h9a3,1,2,Mother,Finances,public transfers and social services
+m2j4b3,1,2,Mother,Health and health behavior,health care access and insurance
+m2k16,1,2,Mother,Employment,employment - traditional work
+m2k6,1,2,Mother,Employment,unemployment
+m2k8a,1,2,Mother,Employment & Parenting,employment - traditional work & parenting abilities
+m2l2,1,2,Mother,Finances,private transfers
+m3a10,1,3,Mother,Health and health behavior,fertility history
+m3a13,1,3,Mother,Parental relationships,parental relationship history
+m3a2,1,3,Mother,Home and housing,child living arrangements
+m3a4,1,3,Mother,Parental relationships,parental relationship status
+m3b23,1,3,Mother,Childcare,childcare services and availability
+m3b3,2,3,Mother,Parenting,parent-child contact
+m3b4a,1,3,Mother,Parenting,parenting behavior
+m3b4c,1,3,Mother,Parenting,parenting behavior
+m3b4d,1,3,Mother,Parenting,parenting behavior
+m3b4j,1,3,Mother,Parenting,parenting behavior
+m3b4m,2,3,Mother,Parenting,parenting behavior
+m3b6a,1,3,Mother,Parenting,parenting abilities
+m3c1d,1,3,Mother,Legal system & Home and housing,legal custody & child living arrangements
+m3c30d,1,3,Mother,Finances,child support
+m3c3j,1,3,Mother,Parenting,parenting behavior
+m3c41,2,3,Mother,Legal system & Employment,criminal justice involvement & employment - traditional work
+m3d1f,1,3,Mother,Parental relationships & Parenting,parental relationship quality & parenting abilities
+m3d3,1,3,Mother,Family and social support,social support
+m3d8,1,3,Mother,Parental relationships,parental relationship status
+m3f2d3,2,3,Mother,Home and housing,household composition
+m3h6a,1,3,Mother,Family and social support,social support
+m3i0f,1,3,Mother,Community,community participation
+m3i21,1,3,Mother,Finances,income tax
+m3j18a,1,3,Mother,Health and health behavior,mental health
+m3j44a,1,3,Mother,Cognitive and behavioral development,behavior
+m3k11,1,3,Mother,Employment & Employment,employment - non-traditional work & employment - traditional work
+m3k3b,1,3,Mother,Finances,public transfers and social services
+m3l4a,1,3,Mother,Finances,financial assets
+m4a13,3,4,Mother,Parental relationships,parental relationship history
+m4a6,1,4,Mother,Parental relationships,parental relationship status
+m4b3,2,4,Mother,Home and housing,child living arrangements
+m4b4a2,1,4,Mother,Parenting,parenting behavior
+m4b4a3,1,4,Mother,Parenting,parenting behavior
+m4b6c,1,4,Mother,Parenting,parenting abilities
+m4b8a,1,4,Mother,Childcare,childcare services and availability
+m4b8c,1,4,Mother,Childcare,childcare services and availability
+m4c27,1,4,Mother,Health and health behavior,fertility history
+m4c35b,2,4,Mother,Home and housing,parents' living arrangements
+m4c36,2,4,Mother,Employment & Education and school,employment - traditional work & educational attainment/achievement
+m4c3e,1,4,Mother,Parenting,parenting behavior
+m4c3g,1,4,Mother,Parenting,parenting behavior
+m4f2d1,1,4,Mother,Home and housing,household composition
+m4f2d3,2,4,Mother,Home and housing,household composition
+m4f2d4,1,4,Mother,Home and housing,household composition
+m4h1l,1,4,Mother,Family and social support,grandparents
+m4h4,1,4,Mother,Family and social support,social support
+m4i0n1,1,4,Mother,Community,neighborhood conditions
+m4i2,2,4,Mother,Home and housing,housing status
+m4i4,4,4,Mother,Finances,expenses
+m4i4a,1,4,Mother,Home and housing,housing status
+m4j25a1,1,4,Mother,Cognitive and behavioral development,behavior
+m4j2e,1,4,Mother,Health and health behavior,height and weight
+m4k9b,1,4,Mother,Employment & Employment,employment - traditional work & unemployment
+m4r3,1,4,Mother,Demographics,religion
+m5a2,1,5,Mother,Parenting,parent-child contact
+m5a51,1,5,Mother,Home and housing,parents' living arrangements
+m5a5d04,3,5,Mother,Home and housing,household composition
+m5b3,1,5,Mother,Parenting,parent-child contact
+m5c1d,1,5,Mother,Attitudes and expectations & Parenting,attitudes/expectations/happiness & parenting behavior
+m5c2b,1,5,Mother,Parental relationships & Parenting,parental relationship quality & parenting abilities
+m5c3c,1,5,Mother,Parental relationships & Parenting,parental relationship quality & parenting abilities
+m5e2,1,5,Mother,Finances,private transfers
+m5e9_7,1,5,Mother,Family and social support,social support
+m5f20,1,5,Mother,Finances,public transfers and social services
+m5f4b,1,5,Mother,Home and housing,housing status
+m5i12a_code,1,5,Mother,Paradata and weights,paradata
+m5i4,1,5,Mother,Employment,employment - traditional work
+m5j5b,1,5,Mother,Finances,financial assets
+m5j6b1,1,5,Mother,Finances,financial assets
+o3u2,1,3,Home (Observation),Cognitive and behavioral development,behavior
+o3v2,1,3,Home (Observation),Cognitive and behavioral development,behavior
+o3v3,1,3,Home (Observation),Paradata and weights,paradata
+o4p7b,1,4,Home (Observation),Home and housing,home environment
+o4r10a_3,1,4,Home (Observation),Home and housing,home environment
+o4r12,2,4,Home (Observation),Home and housing,home environment
+o4r13,1,4,Home (Observation),Home and housing,home environment
+o4r2,1,4,Home (Observation),Home and housing,home environment
+o4u1,1,4,Home (Observation),Cognitive and behavioral development,behavior
+o4v2,1,4,Home (Observation),Cognitive and behavioral development,behavior
+o4v6b,1,4,Home (Observation),Cognitive and behavioral development,behavior
+o5a3,1,5,Home (Observation),Community,neighborhood conditions
+o5a8,1,5,Home (Observation),Community,neighborhood conditions
+o5f2,1,5,Home (Observation),Cognitive and behavioral development,behavior
+o5g2,1,5,Home (Observation),Cognitive and behavioral development,behavior
+o5g8_3,1,5,Home (Observation),Paradata and weights,paradata
+p3a1,1,3,Primary caregiver,Health and health behavior & Health and health behavior,physical health & mental health
+p3a21,3,3,Primary caregiver,Home and housing & Health and health behavior,home environment & health behavior
+p3a6a,3,3,Primary caregiver,Health and health behavior,health care access and insurance
+p3b1,2,3,Primary caregiver,Parenting,parenting behavior
+p3b3,1,3,Primary caregiver,Parenting,parenting behavior
+p3c6a,2,3,Primary caregiver,Parenting,parenting behavior
+p3c6e,1,3,Primary caregiver,Parenting & Community,parenting behavior & community participation
+p3g1l,1,3,Primary caregiver,Health and health behavior,mental health
+p3j13,1,3,Primary caregiver,Parenting,parenting behavior
+p3j15,1,3,Primary caregiver,Parenting,parenting behavior
+p3j19,1,3,Primary caregiver,Health and health behavior & Parenting,substance use and abuse & parenting behavior
+p3j2,1,3,Primary caregiver,Parenting,parenting behavior
+p3j23b,2,3,Primary caregiver,Parenting,parenting behavior
+p3j23e,2,3,Primary caregiver,Parenting,parenting behavior
+p3j23h,2,3,Primary caregiver,Parenting,parenting behavior
+p3j3,1,3,Primary caregiver,Parenting,parenting behavior
+p3j4,1,3,Primary caregiver,Parenting,parenting behavior
+p3j9,2,3,Primary caregiver,Parenting,parenting behavior
+p3k1a,1,3,Primary caregiver,Community,neighborhood conditions
+p3k1c,1,3,Primary caregiver,Community,neighborhood conditions
+p3k3b,1,3,Primary caregiver,Community,neighborhood conditions
+p3k3f,1,3,Primary caregiver,Community,neighborhood conditions
+p3m16,1,3,Primary caregiver,Cognitive and behavioral development,behavior
+p3m17,1,3,Primary caregiver,Cognitive and behavioral development,behavior
+p3m2,1,3,Primary caregiver,Cognitive and behavioral development,behavior
+p3m34,1,3,Primary caregiver,Cognitive and behavioral development,behavior
+p4a14,1,4,Primary caregiver,Health and health behavior & Health and health behavior,health care access and insurance & physical health
+p4a24,1,4,Primary caregiver,Health and health behavior,health behavior
+p4a30,1,4,Primary caregiver,Health and health behavior,health behavior
+p4b1,1,4,Primary caregiver,Parenting,parenting behavior
+p4b14,1,4,Primary caregiver,Parenting,parenting behavior
+p4b2,1,4,Primary caregiver,Parenting,parenting behavior
+p4b24,3,4,Primary caregiver,Cognitive and behavioral development & Health and health behavior,behavior & mental health
+p4b6,2,4,Primary caregiver,Parenting,parenting behavior
+p4c14,1,4,Primary caregiver,Home and housing,home environment
+p4c17b,1,4,Primary caregiver,Parenting,parenting behavior
+p4c1e,1,4,Primary caregiver,Parenting,parenting behavior
+p4d1b,1,4,Primary caregiver,Finances,material hardship
+p4d2,1,4,Primary caregiver,Finances,material hardship
+p4e3,1,4,Primary caregiver,Home and housing,home environment
+p4f1b,1,4,Primary caregiver,Attitudes and expectations,attitudes/expectations/happiness
+p4f1e,1,4,Primary caregiver,Attitudes and expectations & Parenting,attitudes/expectations/happiness & parenting abilities
+p4f2a1,1,4,Primary caregiver,Parenting,parenting behavior
+p4f2b1,1,4,Primary caregiver,Parenting,parenting behavior
+p4f3b,1,4,Primary caregiver,Attitudes and expectations & Health and health behavior,attitudes/expectations/happiness & mental health
+p4g1,3,4,Primary caregiver,Parenting,parenting behavior
+p4g10,1,4,Primary caregiver,Parenting,parenting behavior
+p4g13,1,4,Primary caregiver,Parenting,parenting behavior
+p4g21,1,4,Primary caregiver,Home and housing,household composition
+p4g23a,1,4,Primary caregiver,Parenting,parenting behavior
+p4g23b,1,4,Primary caregiver,Parenting,parenting behavior
+p4g23d,1,4,Primary caregiver,Parenting,parenting behavior
+p4g23h,1,4,Primary caregiver,Parenting,parenting behavior
+p4g23i,1,4,Primary caregiver,Parenting,parenting behavior
+p4g6,1,4,Primary caregiver,Parenting,parenting behavior
+p4g8,1,4,Primary caregiver,Parenting,parenting behavior
+p4j1,1,4,Primary caregiver,Parenting,child welfare services
+p4l1,1,4,Primary caregiver,Cognitive and behavioral development,behavior
+p4l11,1,4,Primary caregiver,Cognitive and behavioral development,behavior
+p4l22,1,4,Primary caregiver,Cognitive and behavioral development,behavior
+p4l23,1,4,Primary caregiver,Cognitive and behavioral development,behavior
+p4l43,1,4,Primary caregiver,Cognitive and behavioral development,behavior
+p4l57,1,4,Primary caregiver,Cognitive and behavioral development,behavior
+p4l66,1,4,Primary caregiver,Cognitive and behavioral development,behavior
+p5h15c,2,5,Primary caregiver,Health and health behavior,health behavior
+p5h17b,1,5,Primary caregiver,Health and health behavior,physical health
+p5h6,1,5,Primary caregiver,Health and health behavior,health care access and insurance
+p5h8,1,5,Primary caregiver,Health and health behavior,health care access and insurance
+p5i12,1,5,Primary caregiver,Health and health behavior & Parenting,mental health & parenting behavior
+p5i1d,1,5,Primary caregiver,Parenting,parenting behavior
+p5i1g,1,5,Primary caregiver,Parenting,parenting behavior
+p5i21b,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5i23,1,5,Primary caregiver,Family and social support,social support
+p5i24,1,5,Primary caregiver,Family and social support,social support
+p5i28,1,5,Primary caregiver,Parenting & Health and health behavior,parenting behavior & health behavior
+p5i3,2,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5i32a,1,5,Primary caregiver,Education and school,parent school involvement
+p5i4,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5i6,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5j2g,1,5,Primary caregiver,Health and health behavior,health behavior
+p5j9,5,5,Primary caregiver,Finances,expenses
+p5j9a,1,5,Primary caregiver,Finances,expenses
+p5l10,1,5,Primary caregiver,Education and school,student experiences
+p5l12d,1,5,Primary caregiver,Home and housing & Education and school,residential mobility & student experiences
+p5l13g,1,5,Primary caregiver,Education and school,student experiences
+p5l18,1,5,Primary caregiver,Education and school,parent school involvement
+p5l3h,1,5,Primary caregiver,Education and school,parent school involvement
+p5m3a,1,5,Primary caregiver,Community,neighborhood conditions
+p5q1k,1,5,Primary caregiver,Parenting,parenting behavior
+p5q3a,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q3ba,1,5,Primary caregiver,Health and health behavior & Health and health behavior,height and weight & physical health
+p5q3bb1,1,5,Primary caregiver,Health and health behavior,physical health
+p5q3bb8,1,5,Primary caregiver,Health and health behavior,physical health
+p5q3be,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q3bo,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q3bs,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q3cg,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q3cn,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q3g,2,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q3u,1,5,Primary caregiver,Cognitive and behavioral development,behavior
+p5q4,1,5,Primary caregiver,Parenting,child welfare services
+q2citywt_rep8,1,2,Couple,Paradata and weights,survey weights
+t5b1aa,2,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b1s,1,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b1u,1,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b1w,2,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b3c,1,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b3e,1,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b3f,1,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b3j,1,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5b4l,1,5,Teacher,Cognitive and behavioral development & Education and school,behavior & student experiences
+t5c12,1,5,Teacher,Education and school,student experiences
+t5c16,1,5,Teacher,Education and school,student experiences
+t5c7c,1,5,Teacher,Education and school,student experiences
+t5d5,2,5,Teacher,Education and school,parent school involvement
+t5e10a2,1,5,Teacher,Education and school,student experiences
+t5e14_4,1,5,Teacher,Education and school,school characteristics
+t5e15f,1,5,Teacher,Education and school,student experiences
+t5e17a,1,5,Teacher,Education and school,student experiences
+t5e20,1,5,Teacher,Education and school,school characteristics
+t5e3,1,5,Teacher,Education and school,school characteristics
+t5e9c,1,5,Teacher,Education and school,student experiences
+t5e9d,2,5,Teacher,Education and school,student experiences
+t5f1a,1,5,Teacher,Attitudes and expectations & Education and school,attitudes/expectations/happiness & teacher characteristics
+t5f4b,1,5,Teacher,Community & Education and school,neighborhood conditions & school characteristics
+t5f5d,1,5,Teacher,Education and school,school characteristics
