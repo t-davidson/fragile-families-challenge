@@ -1,5 +1,7 @@
 # Black Box Models and Sociological Explanations: Predicting High School GPA Using Neural Networks
 
+***NOTE 11/12/18: An [updated version of this code](https://github.com/t-davidson/ffc-socius) has been created to help to ensure replicability. If you are interested in running the code or sections of it please use the code in that repository. The code contained in this repository includes output (viewable in the Jupyter notebooks) that corresponds to that reported in the published paper. If you plan to compare the results in the paper to the code then please use this repository.***
+
 ## Introduction
 
 This repository contains code to reproduce the results of my final submissions for the [Fragile Families Challenge](http://www.fragilefamilieschallenge.org) as described in the paper submitted to Socius. A pre-print is available [here](https://osf.io/preprints/socarxiv/7nsrf/).
@@ -14,7 +16,7 @@ The `model` directory contains a Jupyter notebook with the code used to run the 
 
 The `preprocess` directory contains the Python script used to clean, impute, and preprocess the raw data, although note that the final pre-proccessing tasks are done in the modeling notebook.
 
-The `LIME` directory contains the a notebook used to run the LIME algorithm (`LIME_explanations.ipynb`) and a notebook used to examine these explanations more closely (`examining_explanations.ipynb`). The explanations themselves, the output of the first notebook, are stored in `new_lime_explanations_dict.p`, a pickled Python dictionary. In addition, there is also a copy of the variable metadata CSV created by Connor Gilroy (see [this repository](https://github.com/fragilefamilieschallenge/variables-metadata)).
+The `LIME` directory contains the a notebook used to run the LIME algorithm (`LIME_explanations.ipynb`) and a notebook used to examine these explanations more closely (`examining_explanations.ipynb`). ***NOTE 12/11/18: Due to changes in the Fragile Families metadata API this code will no longer work. Please consult the updated repository linked above.***. The explanations themselves, the output of the first notebook, are stored in `new_lime_explanations_dict.p`, a pickled Python dictionary. In addition, there is also a copy of the variable metadata CSV created by Connor Gilroy (see [this repository](https://github.com/fragilefamilieschallenge/variables-metadata)).
 
 The `results` directory contains the CSVs necessary to reproduce the figures in the paper, as well as the predicted values for GPA obtained from the final 5 models and the baseline model, as discussed in the paper.
 
