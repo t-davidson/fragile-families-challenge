@@ -1,14 +1,10 @@
 # Black Box Models and Sociological Explanations: Predicting High School GPA Using Neural Networks
 
-***NOTE 11/12/18: An [updated version of this code](https://github.com/t-davidson/ffc-socius) has been created to help to ensure replicability. If you are interested in running the code or sections of it please use the code in that repository. The code contained in this repository includes output (viewable in the Jupyter notebooks) that corresponds to that reported in the published paper. If you plan to compare the results in the paper to the code then please use this repository.***
+***NOTE 11/12/18: An [updated version of this code](https://github.com/t-davidson/ffc-socius) has been created to help to ensure replicability. If you are interested in running the code or sections of it then please use the code there. The code contained in this repository includes output (viewable in the Jupyter notebooks) that corresponds to that reported in the published paper. If you plan to compare the results in the paper to the code then please use this repository. This repository does not contain the Fragile Families data. Please contact the Fragile Families and Child-Wellbeing Survey organization. An FAQ on data access can be found [here](https://fragilefamilies.princeton.edu/faq)***
 
 ## Introduction
 
-This repository contains code to reproduce the results of my final submissions for the [Fragile Families Challenge](http://www.fragilefamilieschallenge.org) as described in the paper submitted to Socius. A pre-print is available [here](https://osf.io/preprints/socarxiv/7nsrf/).
-
-***Note: This repository does not contain the Fragile Families data, which I am unable to share and I will delete once the manuscript has been completed.***
-
-All of the code used was written in Python 3.6 using the latest versions of the packages available in July 2017.
+This repository contains code to reproduce the results of my final submissions for the [Fragile Families Challenge](http://www.fragilefamilieschallenge.org) as described in the paper forthcoming in Socius. A pre-print is available [here](https://osf.io/preprints/socarxiv/7nsrf/). All of the code used was written in Python 3.6 using the latest versions of the packages available in July 2017.
 
 ## What this repository contains
 
@@ -26,4 +22,4 @@ The `supplementary` directory contains notebooks, data, and figures discussed in
 
 ## Questions?
 
-If you have any questions please don't hesitate to contact me via e-mail (see my Github profile)  or to make an `Issue` on this repository.
+If you have any questions please don't hesitate to contact me via e-mail.
